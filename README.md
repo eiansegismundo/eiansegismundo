@@ -3,7 +3,7 @@ Hi there! I'm a fresh BS in Information Technology (BSIT) graduate passionate ab
 
 While I am entering the industry as a fresh graduate, I bring practical, hands-on experience designing and deploying applications developed during my academic capstone and fast-paced internship/OJT environments. I treat my academic and internship projects with production-level standards focusing on clean code, clear documentation, and efficient problem-solving.
 
-💼 Currently Seeking: Junior Web Developer / Associate Software Engineer roles.
+💼 Currently Seeking: It support/ Help Desk/ IT Support Assistant
 
 🛠️ Core Tech Stack: [Insert your main languages/frameworks, e.g., React, Node.js, Python, PHP, MySQL, Git]
 
