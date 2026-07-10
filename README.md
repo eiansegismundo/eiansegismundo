@@ -5,6 +5,6 @@ While I am entering the industry as a fresh graduate, I bring practical, hands-o
 
 💼 Currently Seeking: It support/ Help Desk/ IT Support Assistant
 
-🛠️ Core Tech Stack: [Insert your main languages/frameworks, e.g., React, Node.js, Python, PHP, MySQL, Git]
+🛠️ Core Tech Stack: React, Node.js, Python, PHP, MySQL, C++
 
 🎯 Focus Areas: Full-Stack Development, Systems Analysis, API Integration, and Agile Methodologies.
